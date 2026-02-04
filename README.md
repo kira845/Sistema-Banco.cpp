@@ -39,6 +39,6 @@ El objetivo principal es reforzar conceptos de programación estructurada, modul
 - Validación de entradas
 
 ---
+### Compilar:
 g++ main.cpp -o banco
-## Estructura del proyecto
 
